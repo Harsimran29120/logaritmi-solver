@@ -1,0 +1,51 @@
+.main-div {
+    background-color: white;
+    width: 96%;
+    height: 700px;
+    margin: auto;
+    border-radius: 20px;
+    box-shadow: 6px 6px 23px 10px  grey;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.h2-main {
+    text-align: center;
+    padding-top: 10px;
+    color: rgb(85, 80, 80);
+    font-family: 'Train One', cursive;
+}
+
+.log-style {
+    font-family: 'Train One', cursive;
+}
+
+.graph-width {
+    width: 100%;
+}
+
+.btn1 {
+    width: 100%;
+    margin: auto;
+    border-radius: 15px;
+    box-shadow: 2px 2px 10px grey;
+    border-color: rgba(0, 0, 255, 0);
+    color: grey;
+    font-family: montserrat;
+    
+}
+
+
+.btn1:hover {
+    background-color: grey;
+    color: white;
+}
+
+.div1 {
+    width: 100%;
+    
+    margin: auto;
+}
+
+
+
