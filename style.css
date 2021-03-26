@@ -24,6 +24,14 @@
     width: 100%;
 }
 
+.owner {
+    color: grey;
+    width: 100%;
+    text-align: center ;
+    margin-top: 15px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
 .btn1 {
     width: 100%;
     margin: auto;
@@ -32,7 +40,7 @@
     border-color: rgba(0, 0, 255, 0);
     color: grey;
     font-family: montserrat;
-    
+
 }
 
 
