@@ -18,6 +18,7 @@
 
 .log-style {
     font-family: 'Train One', cursive;
+    margin-left: 10px;
 }
 
 .graph-width {
@@ -30,6 +31,19 @@
     text-align: center ;
     margin-top: 15px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif ;
+}
+
+#base-change-to {
+    margin-left: 10px;
+}
+.distance-like {
+    width: 20%;
+    margin-left: 15px;
+}
+
+.distance-liked {
+    
+    margin-left: 10px;
 }
 
 .btn1 {

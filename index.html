@@ -17,14 +17,14 @@
 
 <body>
     <div class="main-div">
-        <h2 class="h2-main">
+        <h3 class="h2-main">
             LOGARITMI SOLVER
-        </h2>
+        </h3>
         <hr> <br>
 
         <form id="calcform1" name="calcform1" autocomplete="off" class="rounded">
             <div class="form-row">
-                <div id="coefdiv1a" class="col-2">
+                <div class="distance-like" id="coefdiv1" class="col-2">
                     <input type="text" id="c1" name="c1" placeholder="1" class="form-control" />
                 </div>
                 <div id="coefdiv1b" class="col-auto mt-2">&times;</div>
@@ -40,8 +40,9 @@
                 </div>
             </div>
 
+            <br>
 
-            <div class="form-group mt-4">
+            <div class="distance-liked" class="form-group mt-4">
                 <button onclick="calcA()" type="button" class="btn btn-secondary">
                     <span>=</span> Calculate
                 </button>
@@ -50,6 +51,7 @@
                 </button>
 
             </div>
+            <br>
             <div class="form-group">
                 <div class="input-group mb-3">
                     <input type="text" id="y" readonly class="form-control form-control-lg" />
